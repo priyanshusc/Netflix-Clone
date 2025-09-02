@@ -70,10 +70,10 @@ npm install
 ### 3️⃣ Set up Environment Variables
 Create a new file in the root named .env.local and add:
 
-# TMDB API Key
+### TMDB API Key
 VITE_TMDB_API_KEY="YOUR_TMDB_API_KEY"
 
-# Firebase Config Keys
+### Firebase Config Keys
 VITE_FIREBASE_API_KEY="YOUR_FIREBASE_API_KEY"
 VITE_FIREBASE_AUTH_DOMAIN="YOUR_FIREBASE_AUTH_DOMAIN"
 VITE_FIREBASE_PROJECT_ID="YOUR_FIREBASE_PROJECT_ID"
